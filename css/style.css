@@ -1,0 +1,13 @@
+.header {
+  background-color: red;
+}
+
+body {
+  background-color: brown;
+}
+
+.menu__items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
